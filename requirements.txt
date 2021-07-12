@@ -1,0 +1,11 @@
+Flask
+sqlalchemy
+Flask-SQLAlchemy
+geoalchemy2
+gunicorn
+blinker
+PyJWT
+cachetools
+bcrypt
+psycopg2-binary
+file:./libs/flask_restify-0.3.0.tar.gz#egg=flask_restify
